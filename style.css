@@ -240,7 +240,7 @@
         }
         
         .customers-count .avatar{
-            margin-left: -12%;
+            margin-left: -13%;
         }
         
          .customers-count .avatar .avatar1{
@@ -602,6 +602,10 @@ z-index: 2;
             .payment-options {
                 justify-content: center;
             }
+
+            .customers-count .avatar{
+                margin-bottom: 30%;
+                   }
             
             .benefits {
                 flex-direction: column;
